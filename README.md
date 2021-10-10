@@ -1,5 +1,4 @@
 # sudokuSolver
 
-Can solve sudoku puzzles, uses backtracking.
+solves sudoku puzzles, using backtracking.
 
-Working on gui that will you allow for easy puzzle editing
